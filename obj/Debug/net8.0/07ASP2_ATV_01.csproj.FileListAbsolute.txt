@@ -1,0 +1,14 @@
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\bin\Debug\net8.0\07ASP2_ATV_01.exe
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\bin\Debug\net8.0\07ASP2_ATV_01.deps.json
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\bin\Debug\net8.0\07ASP2_ATV_01.runtimeconfig.json
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\bin\Debug\net8.0\07ASP2_ATV_01.dll
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\bin\Debug\net8.0\07ASP2_ATV_01.pdb
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\obj\Debug\net8.0\07ASP2_ATV_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\obj\Debug\net8.0\07ASP2_ATV_01.AssemblyInfoInputs.cache
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\obj\Debug\net8.0\07ASP2_ATV_01.AssemblyInfo.cs
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\obj\Debug\net8.0\07ASP2_ATV_01.csproj.CoreCompileInputs.cache
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\obj\Debug\net8.0\07ASP2_ATV_01.dll
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\obj\Debug\net8.0\refint\07ASP2_ATV_01.dll
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\obj\Debug\net8.0\07ASP2_ATV_01.pdb
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\obj\Debug\net8.0\07ASP2_ATV_01.genruntimeconfig.cache
+C:\Users\junio\Desktop\FullStackSenai\Codificação BackEnd\07a - SP2 - Atividade 1\SENAI_ATV_BACKEND\07ASP2_ATV_01\obj\Debug\net8.0\ref\07ASP2_ATV_01.dll
